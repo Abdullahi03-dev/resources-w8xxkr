@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Abdullahi03-dev.github.io/resources-w8xxkr/sitemap.xml
